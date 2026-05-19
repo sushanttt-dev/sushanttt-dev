@@ -1,6 +1,6 @@
 # Hi, I'm Sushant! 👋
 
-🎯 Aspiring Software Engineer | 14 y/o Builder from Nagpur  
+🎯 Aspiring Software Engineer | 15 y/o Builder from India  
 🐍 Python | AI & ML Enthusiast  
 🚀 On a mission to get into MAANG someday  
 
