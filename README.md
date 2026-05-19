@@ -1,4 +1,20 @@
-## Hi there 👋
+# Hi, I'm Sushant! 👋
+
+🎯 Aspiring Software Engineer | 14 y/o Builder from Nagpur  
+🐍 Python | AI & ML Enthusiast  
+🚀 On a mission to get into MAANG someday  
+
+## 🛠️ Projects
+- **Agency Agent** — AI-powered freelancer pitch engine using Groq API  
+- **LLM Project** — Custom LLM built with Python & Groq's free API  
+
+## 🌱 Currently Learning
+- Python (Advanced concepts)  
+- Data Structures & Algorithms  
+- Web Development  
+
+## ⚡ Fun Fact
+I built AI tools at 14 using free APIs — just getting started!
 
 <!--
 **sushthombare18-ui/sushthombare18-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
