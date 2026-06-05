@@ -14,7 +14,7 @@
 - Web Development  
 
 ## ⚡ Fun Fact
-I built AI tools at 15 using free APIs — just getting started!
+I built AI tools at 18 using free APIs — just getting started!
 
 <!--
 **sushthombare18-ui/sushthombare18-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
