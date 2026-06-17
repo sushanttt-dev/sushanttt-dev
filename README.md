@@ -4,8 +4,8 @@
 🚀 On a mission to get into MAANG someday  
 
 ## 🛠️ Projects
-- **Agency Agent** — AI-powered freelancer pitch engine using Groq API  
-- **LLM Project** — Custom LLM built with Python & Groq's free API  
+- **Agency Agent** — AI-powered freelancer pitch engine   
+- **LLM Project** — Custom LLM built with Python   
 
 ## 🌱 Currently Learning
 - Python (Advanced concepts)  
