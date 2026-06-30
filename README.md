@@ -5,7 +5,8 @@
 
 ## 🛠️ Projects
 - **Agency Agent** — AI-powered freelancer pitch engine   
-- **LLM Project** — Custom LLM built with Python   
+- **LLM Project** — Custom LLM built with Python
+- **Hand Tracking Cursor** - A hand position tracker which controls the cursor of the device  
 
 ## 🌱 Currently Learning
 - Python (Advanced concepts)  
