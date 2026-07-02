@@ -1,5 +1,5 @@
 # Hi, I'm Sushant!!!!
-🎯 Aspiring Software Engineer | 15 y/o Builder from India  
+🎯 Aspiring Software Engineer | Builder from India  
 🐍 Python | AI & ML Enthusiast  
 🚀 On a mission to get into MAANG someday  
 
@@ -14,7 +14,7 @@
 - Web Development  
 
 ## ⚡ Fun Fact
-I built AI tools at 15 using just a brain — just getting started!
+I built AI tools using just a brain — just getting started!
 
 <!--
 **sushthombare18-ui/sushthombare18-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
