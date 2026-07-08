@@ -4,7 +4,7 @@
 🚀 On a mission to get into MAANG someday  
 
 ## 🛠️ Projects
-- **Agency Agent** — AI-powered freelancer pitch engine   
+- **Agency Agent** — AI-powered freelancer pitch engine deployed as copystudioai.stremlit.app   
 - **LLM Project** — Custom LLM built with Python
 - **Hand Tracking Cursor** - A hand position tracker which controls the cursor of the device  
 
